@@ -1,0 +1,994 @@
+253742834.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	lobular
+	overall_lesion_shape:	ovoid
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_>10
+	lesion_enhancement_overall:	nonenhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+263153086.1
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	round
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_margin:	poorly-defined_margin
+	lesion_substance:	necrosis
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_1-5
+	lesion_enhancement_temporal:	homogeneous_fade
+	lesion_enhancement_spatial_pattern:	heterogeneous_enhancement
+	lesion_enhancement_spatial_pattern:	target_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	heterogeneous
+
+263153086.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	round
+	lesion_margin:	poorly-defined_margin
+	lesion_substance:	necrosis
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_1-5
+	lesion_enhancement_temporal:	homogeneous_fade
+	lesion_enhancement_spatial_pattern:	target_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	heterogeneous
+
+263154479.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	polygonal
+	overall_lesion_shape:	ovoid
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_margin:	circumscribed_margin
+	lesion_substance:	internal_nodules
+	lesion_effect_on_liver:	abuts_capsule_of_liver
+	lesion_focality:	solitary_lesion
+	lesion_enhancement_temporal:	centripetal_fill-in
+	lesion_enhancement_spatial_pattern:	peripheral_discontinuous_nodular_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	heterogeneous
+
+263431782.2
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	ovoid
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_attenuation_overall:	water_density
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_1-5
+	lesion_enhancement_overall:	nonenhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+263150841.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	ovoid
+	lesion_margin:	circumscribed_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	solitary_lesion
+	lesion_enhancement_overall:	enhancing
+	lesion_enhancement_temporal:	homogeneous_retention
+	lesion_enhancement_spatial_pattern:	homogeneous_enhancement
+	lesion_attenuation_uniformity:	homogeneous
+
+253742304.1
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	lobular
+	overall_lesion_shape:	ovoid
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_1-5
+	lesion_enhancement_overall:	nonenhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+253742304.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	ovoid
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_1-5
+	lesion_enhancement_overall:	nonenhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+263158558.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	round
+	lesion_margin:	poorly-defined_margin
+	lesion_substance:	visible_internal_vessels
+	lesion_effect_on_liver:	bulges_capsule_of_liver
+	lesion_attenuation_overall:	soft_tissue_density
+	lesion_focality:	solitary_lesion
+	lesion_enhancement_temporal:	homogeneous_fade
+	lesion_enhancement_spatial_pattern:	homogeneous_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_enhancement_overall:	hypervascular
+	lesion_attenuation_uniformity:	heterogeneous
+
+259880542.1
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	ovoid
+	lesion_margin:	smooth_margin
+	lesion_margin:	circumscribed_margin
+	lesion_substance:	central_scar
+	lesion_effect_on_liver:	bulges_capsule_of_liver
+	lesion_attenuation_overall:	soft_tissue_density
+	lesion_focality:	solitary_lesion
+	lesion_enhancement_temporal:	homogeneous_fade
+	lesion_enhancement_spatial_pattern:	homogeneous_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_enhancement_overall:	hypervascular
+	lesion_attenuation_uniformity:	heterogeneous
+
+248901863.2
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	ovoid
+	lesion_margin:	poorly-defined_margin
+	lesion_margin:	smooth_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_>10
+	lesion_enhancement_temporal:	homogeneous_retention
+	lesion_enhancement_spatial_pattern:	homogeneous_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+248901863.3
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	round
+	lesion_margin:	poorly-defined_margin
+	lesion_margin:	smooth_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_>10
+	lesion_enhancement_temporal:	homogeneous_retention
+	lesion_enhancement_spatial_pattern:	homogeneous_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+248901863.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	round
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_>10
+	lesion_enhancement_temporal:	homogeneous_retention
+	lesion_enhancement_spatial_pattern:	homogeneous_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+248901863.6
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	lobular
+	overall_lesion_shape:	ovoid
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_>10
+	lesion_enhancement_temporal:	homogeneous_retention
+	lesion_enhancement_spatial_pattern:	homogeneous_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+248901863.7
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	round
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_6-10
+	lesion_enhancement_temporal:	homogeneous_retention
+	lesion_enhancement_spatial_pattern:	homogeneous_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+248901863.4
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	round
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_>10
+	lesion_enhancement_temporal:	homogeneous_retention
+	lesion_enhancement_spatial_pattern:	homogeneous_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+248901863.5
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	lobular
+	overall_lesion_shape:	ovoid
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_>10
+	lesion_enhancement_temporal:	homogeneous_retention
+	lesion_enhancement_spatial_pattern:	homogeneous_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+248045470.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	ovoid
+	lesion_margin:	circumscribed_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	solitary_lesion
+	lesion_enhancement_overall:	nonenhancing
+	lesion_attenuation_uniformity:	homogeneous
+	misc_lesion_findings:	normal_perilesional_tissue
+
+248901863.8
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_>10
+	lesion_enhancement_temporal:	homogeneous_retention
+	lesion_enhancement_spatial_pattern:	homogeneous_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	homogeneous
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	lobular
+	overall_lesion_shape:	ovoid
+
+248901863.9
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	round
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_6-10
+	lesion_enhancement_temporal:	homogeneous_retention
+	lesion_enhancement_spatial_pattern:	homogeneous_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+263430826.1
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	round
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_attenuation_overall:	water_density
+	lesion_focality:	multiple_lesions_6-10
+	lesion_enhancement_overall:	nonenhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+263430826.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	ovoid
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_attenuation_overall:	water_density
+	lesion_focality:	multiple_lesions_6-10
+	lesion_enhancement_overall:	nonenhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+263430826.3
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	ovoid
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_effect_on_liver:	abuts_capsule_of_liver
+	lesion_attenuation_overall:	hypodense
+	lesion_attenuation_overall:	water_density
+	lesion_focality:	multiple_lesions_6-10
+	lesion_enhancement_overall:	nonenhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+263151019.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	lobular
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	lobulated_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_6-10
+	lesion_enhancement_temporal:	homogeneous_retention
+	lesion_enhancement_spatial_pattern:	homogeneous_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+253837468.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	irregularly_shaped
+	lesion_margin:	irregular_margin
+	lesion_focality:	solitary_lesion
+	lesion_enhancement_temporal:	centripetal_fill-in
+	lesion_enhancement_spatial_pattern:	peripheral_discontinuous_nodular_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	heterogeneous
+
+253755952.0
+	lesion_rim:	absent_rim
+	lesion_margin:	poorly-defined_margin
+	lesion_margin:	irregular_margin
+	lesion_focality:	solitary_lesion
+	lesion_enhancement_overall:	enhancing
+	lesion_enhancement_spatial_pattern:	peripheral_discontinuous_nodular_enhancement
+	lesion_enhancement_temporal:	centripetal_fill-in
+	lesion_attenuation_uniformity:	heterogeneous
+	overall_lesion_shape:	lobular
+	overall_lesion_shape:	round
+
+253750762.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	lobular
+	overall_lesion_shape:	ovoid
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_>10
+	lesion_enhancement_overall:	nonenhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+253750762.1
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	round
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_>10
+	lesion_enhancement_overall:	nonenhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+247168459.1
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	ovoid
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_margin:	circumscribed_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_1-5
+	lesion_enhancement_overall:	nonenhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+260484883.1
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	ovoid
+	misc_lesion_findings:	perilesional_steatosis
+	lesion_margin:	obscured_margin
+	lesion_substance:	central_scar
+	lesion_attenuation_overall:	hyperdense
+	lesion_focality:	solitary_lesion
+	lesion_enhancement_temporal:	homogeneous_fade
+	lesion_enhancement_spatial_pattern:	homogeneous_enhancement
+	lesion_enhancement_overall:	hypervascular
+	lesion_attenuation_uniformity:	homogeneous
+
+263151019.2
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	lobular
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	lobulated_margin
+	lesion_effect_on_liver:	abuts_capsule_of_liver
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_6-10
+	lesion_enhancement_temporal:	homogeneous_retention
+	lesion_enhancement_spatial_pattern:	homogeneous_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+263432529.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	irregularly_shaped
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	irregular_margin
+	lesion_substance:	internal_nodules
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	solitary_lesion
+	lesion_enhancement_temporal:	centripetal_fill-in
+	lesion_enhancement_spatial_pattern:	peripheral_discontinuous_nodular_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	heterogeneous
+
+253751763.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	round
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	solitary_lesion
+	lesion_enhancement_overall:	nonenhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+263430155.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	ovoid
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_effect_on_liver:	abuts_capsule_of_liver
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_6-10
+	lesion_enhancement_overall:	nonenhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+263430155.2
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	ovoid
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_attenuation_overall:	water_density
+	lesion_focality:	multiple_lesions_6-10
+	lesion_enhancement_overall:	nonenhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+263430155.3
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	round
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_effect_on_liver:	abuts_portal_vein
+	lesion_attenuation_overall:	hypodense
+	lesion_attenuation_overall:	water_density
+	lesion_focality:	multiple_lesions_6-10
+	lesion_enhancement_overall:	nonenhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+263154225.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	polygonal
+	overall_lesion_shape:	lobular
+	lesion_margin:	circumscribed_margin
+	lesion_substance:	internal_nodules
+	lesion_effect_on_liver:	abuts_capsule_of_liver
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	solitary_lesion
+	lesion_enhancement_temporal:	centripetal_fill-in
+	lesion_enhancement_spatial_pattern:	peripheral_discontinuous_nodular_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	heterogeneous
+
+263430155.1
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	lobular
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_attenuation_overall:	hypodense
+	lesion_attenuation_overall:	water_density
+	lesion_focality:	multiple_lesions_6-10
+	lesion_enhancement_overall:	nonenhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+263152237.2
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	lobular
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_margin:	lobulated_margin
+	lesion_effect_on_liver:	abuts_hepatic_vein
+	lesion_effect_on_liver:	distorts_hepatic_vein
+	lesion_attenuation_overall:	soft_tissue_density
+	lesion_focality:	multiple_lesions_>10
+	lesion_focality:	coalescent
+	lesion_enhancement_temporal:	homogeneous_fade
+	lesion_enhancement_spatial_pattern:	target_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	heterogeneous
+	lesion_attenuation_uniformity:	mixed
+
+263430826.2
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	ovoid
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_attenuation_overall:	water_density
+	lesion_focality:	multiple_lesions_6-10
+	lesion_enhancement_overall:	nonenhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+263431782.1
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	ovoid
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_attenuation_overall:	water_density
+	lesion_focality:	multiple_lesions_1-5
+	lesion_enhancement_overall:	nonenhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+260483676.3
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	ovoid
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_margin:	poorly-defined_margin
+	lesion_substance:	central_scar
+	lesion_attenuation_overall:	hyperdense
+	lesion_focality:	multiple_lesions_1-5
+	lesion_enhancement_temporal:	homogeneous_fade
+	lesion_enhancement_spatial_pattern:	heterogeneous_enhancement
+	lesion_enhancement_overall:	hypervascular
+	lesion_attenuation_uniformity:	heterogeneous
+
+260483676.2
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	round
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_margin:	poorly-defined_margin
+	lesion_substance:	central_scar
+	lesion_attenuation_overall:	hyperdense
+	lesion_focality:	multiple_lesions_1-5
+	lesion_enhancement_temporal:	homogeneous_fade
+	lesion_enhancement_spatial_pattern:	homogeneous_enhancement
+	lesion_enhancement_overall:	hypervascular
+	lesion_attenuation_uniformity:	heterogeneous
+
+253755653.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	irregularly_shaped
+	lesion_margin:	irregular_margin
+	lesion_margin:	poorly-defined_margin
+	lesion_attenuation_overall:	soft_tissue_density
+	lesion_focality:	solitary_lesion
+	lesion_enhancement_temporal:	centripetal_fill-in
+	lesion_enhancement_spatial_pattern:	peripheral_discontinuous_nodular_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	heterogeneous
+
+263431782.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	lobular
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_margin:	lobulated_margin
+	lesion_margin:	circumscribed_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_attenuation_overall:	water_density
+	lesion_focality:	multiple_lesions_1-5
+	lesion_enhancement_overall:	nonenhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+263151019.1
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	round
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_6-10
+	lesion_enhancement_temporal:	homogeneous_retention
+	lesion_enhancement_spatial_pattern:	homogeneous_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+253740872.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	round
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_1-5
+	lesion_enhancement_overall:	nonenhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+253740872.3
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	ovoid
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_1-5
+	lesion_enhancement_overall:	nonenhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+253740872.2
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	round
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_1-5
+	lesion_enhancement_overall:	nonenhancing
+	lesion_attenuation_uniformity:	homogeneous
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+
+263431782.3
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	ovoid
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_attenuation_overall:	water_density
+	lesion_focality:	multiple_lesions_1-5
+	lesion_enhancement_overall:	nonenhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+263160626.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	round
+	lesion_margin:	circumscribed_margin
+	lesion_substance:	internal_nodules
+	lesion_focality:	solitary_lesion
+	lesion_enhancement_temporal:	centripetal_fill-in
+	lesion_enhancement_spatial_pattern:	peripheral_discontinuous_nodular_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	heterogeneous
+	lesion_effect_on_liver:	abuts_capsule_of_liver
+	lesion_attenuation_overall:	hypodense
+	lesion_attenuation_overall:	hyperdense
+
+260485953.1
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	lobular
+	overall_lesion_shape:	irregularly_shaped
+	lesion_margin:	obscured_margin
+	lesion_substance:	necrosis
+	lesion_effect_on_liver:	displaces_portal_vein
+	lesion_attenuation_overall:	soft_tissue_density
+	lesion_focality:	solitary_lesion
+	lesion_focality:	satellite_lesions_present
+	lesion_enhancement_spatial_pattern:	mottled_enhancement
+	lesion_enhancement_temporal:	homogeneous_fade
+	lesion_enhancement_overall:	hypervascular
+	lesion_attenuation_uniformity:	heterogeneous
+
+263152237.1
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	lobular
+	overall_lesion_shape:	ovoid
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	lobulated_margin
+	lesion_substance:	necrosis
+	lesion_effect_on_liver:	abuts_capsule_of_liver
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_>10
+	lesion_focality:	coalescent
+	lesion_enhancement_temporal:	homogeneous_fade
+	lesion_enhancement_spatial_pattern:	heterogeneous_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	heterogeneous
+	lesion_attenuation_uniformity:	mixed
+
+248046576.2
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	ovoid
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	solitary_lesion
+	lesion_enhancement_overall:	nonenhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+253756708.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	irregularly_shaped
+	lesion_margin:	irregular_margin
+	lesion_focality:	solitary_lesion
+	lesion_enhancement_overall:	enhancing
+	lesion_enhancement_spatial_pattern:	peripheral_discontinuous_nodular_enhancement
+	lesion_enhancement_temporal:	centripetal_fill-in
+	lesion_attenuation_uniformity:	heterogeneous
+
+260484576.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	ovoid
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_margin:	mixed_margin
+	lesion_attenuation_overall:	hyperdense
+	lesion_focality:	solitary_lesion
+	lesion_enhancement_spatial_pattern:	homogeneous_enhancement
+	lesion_enhancement_overall:	hypervascular
+	lesion_attenuation_uniformity:	homogeneous
+
+263153373.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	irregularly_shaped
+	lesion_margin:	irregular_margin
+	lesion_margin:	circumscribed_margin
+	lesion_substance:	internal_nodules
+	lesion_effect_on_liver:	abuts_capsule_of_liver
+	lesion_focality:	solitary_lesion
+	lesion_enhancement_temporal:	centripetal_fill-in
+	lesion_enhancement_spatial_pattern:	peripheral_discontinuous_nodular_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	heterogeneous
+
+263429171.1
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	ovoid
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_margin:	lobulated_margin
+	lesion_margin:	circumscribed_margin
+	lesion_effect_on_liver:	bulges_capsule_of_liver
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_6-10
+	lesion_enhancement_temporal:	homogeneous_fade
+	lesion_enhancement_spatial_pattern:	heterogeneous_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	heterogeneous
+
+263150281.0
+	lesion_rim:	nonuniform_rim
+	lesion_rim:	irregular_rim
+	overall_lesion_shape:	lobular
+	overall_lesion_shape:	irregularly_shaped
+	misc_lesion_findings:	perilesional_perfusion_alteration
+	lesion_margin:	cluster_of_grapes
+	lesion_margin:	lobulated_margin
+	lesion_substance:	necrosis
+	lesion_effect_on_liver:	abuts_capsule_of_liver
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	solitary_lesion
+	lesion_enhancement_spatial_pattern:	reticular_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	heterogeneous
+
+263429171.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	ovoid
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_effect_on_liver:	abuts_capsule_of_liver
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_6-10
+	lesion_enhancement_temporal:	homogeneous_fade
+	lesion_enhancement_spatial_pattern:	heterogeneous_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	heterogeneous
+
+253756466.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	irregularly_shaped
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	irregular_margin
+	lesion_focality:	solitary_lesion
+	lesion_enhancement_temporal:	centripetal_fill-in
+	lesion_enhancement_spatial_pattern:	peripheral_discontinuous_nodular_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	heterogeneous
+
+263432529.1
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	wedge-shaped
+	lesion_margin:	poorly-defined_margin
+	lesion_substance:	steatosis
+	lesion_effect_on_liver:	abuts_capsule_of_liver
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	solitary_lesion
+	lesion_enhancement_overall:	enhancing
+	lesion_enhancement_spatial_pattern:	homogeneous_enhancement
+	lesion_enhancement_temporal:	homogeneous_fade
+	lesion_attenuation_uniformity:	homogeneous
+
+247167250.1
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	ovoid
+	lesion_margin:	circumscribed_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_1-5
+	lesion_enhancement_spatial_pattern:	homogeneous_enhancement
+	lesion_enhancement_overall:	nonenhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+263146609.0
+	overall_lesion_shape:	lobular
+	misc_lesion_findings:	perilesional_perfusion_alteration
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	lobulated_margin
+	lesion_margin:	cluster_of_grapes
+	lesion_effect_on_liver:	displaces_portal_vein
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	solitary_lesion
+	lesion_enhancement_spatial_pattern:	peripheral_continuous_rim_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	heterogeneous
+
+263158183.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	round
+	misc_lesion_findings:	feeding_arteries
+	misc_lesion_findings:	perilesional_perfusion_alteration
+	lesion_margin:	poorly-defined_margin
+	lesion_substance:	visible_internal_vessels
+	lesion_effect_on_liver:	infiltrates_wall_into_lumen_of_portal_vein
+	lesion_attenuation_overall:	soft_tissue_density
+	lesion_focality:	solitary_lesion
+	lesion_enhancement_temporal:	mixed_pattern
+	lesion_enhancement_spatial_pattern:	heterogeneous_enhancement
+	lesion_enhancement_overall:	hypervascular
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	mixed
+	lesion_attenuation_uniformity:	heterogeneous
+
+263153617.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	ovoid
+	lesion_margin:	poorly-defined_margin
+	lesion_margin:	obscured_margin
+	lesion_substance:	internal_nodules
+	lesion_focality:	multiple_lesions_1-5
+	lesion_enhancement_temporal:	centripetal_fill-in
+	lesion_enhancement_spatial_pattern:	peripheral_discontinuous_nodular_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	heterogeneous
+
+253755383.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	irregularly_shaped
+	lesion_margin:	poorly-defined_margin
+	lesion_margin:	irregular_margin
+	lesion_substance:	internal_nodules
+	lesion_attenuation_overall:	high_signal_intensity
+	lesion_focality:	solitary_lesion
+	lesion_enhancement_overall:	enhancing
+	lesion_enhancement_spatial_pattern:	peripheral_discontinuous_nodular_enhancement
+	lesion_enhancement_temporal:	centripetal_fill-in
+	lesion_attenuation_uniformity:	heterogeneous
+
+259879770.0
+	lesion_substance:	internal_nodules
+	lesion_attenuation_overall:	soft_tissue_density
+	lesion_focality:	multiple_lesions_1-5
+	lesion_margin:	irregular_margin
+	lesion_attenuation_uniformity:	heterogeneous
+	lesion_enhancement_overall:	hypervascular
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_enhancement_spatial_pattern:	heterogeneous_enhancement
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	lobular
+
+248901863.10
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	lobular
+	overall_lesion_shape:	ovoid
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_>10
+	lesion_enhancement_temporal:	homogeneous_retention
+	lesion_enhancement_spatial_pattern:	homogeneous_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+263152237.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	ovoid
+	lesion_margin:	circumscribed_margin
+	lesion_substance:	necrosis
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_>10
+	lesion_enhancement_spatial_pattern:	target_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	mixed
+
+253760911.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	irregularly_shaped
+	lesion_margin:	irregular_margin
+	lesion_focality:	solitary_lesion
+	lesion_enhancement_temporal:	centripetal_fill-in
+	lesion_enhancement_spatial_pattern:	peripheral_discontinuous_nodular_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	heterogeneous
+
+263433288.2
+	lesion_rim:	thin_rim
+	lesion_rim:	incomplete_rim
+	overall_lesion_shape:	ovoid
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_attenuation_overall:	soft_tissue_density
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	multiple_lesions_1-5
+	lesion_enhancement_temporal:	homogeneous_fade
+	lesion_enhancement_spatial_pattern:	homogeneous_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+263160326.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	linear
+	overall_lesion_shape:	rectangular
+	misc_lesion_findings:	perilesional_perfusion_alteration
+	lesion_margin:	circumscribed_margin
+	lesion_substance:	hemorrhage
+	lesion_effect_on_liver:	abuts_capsule_of_liver
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	solitary_lesion
+	lesion_enhancement_overall:	nonenhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+263433288.0
+	lesion_rim:	thin_rim
+	lesion_rim:	incomplete_rim
+	overall_lesion_shape:	ovoid
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_attenuation_overall:	soft_tissue_density
+	lesion_focality:	multiple_lesions_1-5
+	lesion_enhancement_temporal:	homogeneous_fade
+	lesion_enhancement_spatial_pattern:	homogeneous_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	homogeneous
+
+263147072.0
+	lesion_rim:	thick_rim
+	lesion_rim:	nonuniform_rim
+	overall_lesion_shape:	lobular
+	misc_lesion_findings:	perilesional_perfusion_alteration
+	lesion_margin:	lobulated_margin
+	lesion_margin:	cluster_of_grapes
+	lesion_attenuation_overall:	hypodense
+	lesion_focality:	solitary_lesion
+	lesion_enhancement_temporal:	peripheral_retention
+	lesion_enhancement_spatial_pattern:	heterogeneous_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	heterogeneous
+
+263159762.0
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	ovoid
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_margin:	circumscribed_margin
+	lesion_effect_on_liver:	bulges_capsule_of_liver
+	lesion_substance:	visible_internal_vessels
+	lesion_substance:	scar
+	lesion_attenuation_overall:	soft_tissue_density
+	lesion_focality:	multifocal
+	lesion_enhancement_temporal:	homogeneous_washout
+	lesion_enhancement_spatial_pattern:	mosaic_enhancement
+	lesion_enhancement_spatial_pattern:	heterogeneous_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_enhancement_overall:	hypervascular
+	lesion_attenuation_uniformity:	heterogeneous
+
+263153876.0
+	lesion_rim:	absent_rim
+	lesion_margin:	circumscribed_margin
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_substance:	internal_nodules
+	lesion_effect_on_liver:	abuts_capsule_of_liver
+	lesion_attenuation_overall:	soft_tissue_density
+	lesion_focality:	solitary_lesion
+	lesion_enhancement_temporal:	centripetal_fill-in
+	lesion_enhancement_spatial_pattern:	peripheral_discontinuous_nodular_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	heterogeneous
+	overall_lesion_shape:	polygonal
+	overall_lesion_shape:	rectangular
+
+263159283.0
+	lesion_rim:	incomplete_rim
+	overall_lesion_shape:	round
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_margin:	circumscribed_margin
+	lesion_substance:	visible_internal_vessels
+	lesion_effect_on_liver:	bulges_capsule_of_liver
+	lesion_attenuation_overall:	soft_tissue_density
+	lesion_focality:	solitary_lesion
+	lesion_enhancement_temporal:	homogeneous_washout
+	lesion_enhancement_spatial_pattern:	heterogeneous_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_enhancement_overall:	hypervascular
+	lesion_attenuation_uniformity:	heterogeneous
+
+263433288.3
+	lesion_rim:	absent_rim
+	overall_lesion_shape:	ovoid
+	misc_lesion_findings:	normal_perilesional_tissue
+	lesion_margin:	circumscribed_margin
+	lesion_margin:	smooth_margin
+	lesion_attenuation_overall:	hypodense
+	lesion_attenuation_overall:	soft_tissue_density
+	lesion_focality:	multiple_lesions_1-5
+	lesion_enhancement_temporal:	homogeneous_fade
+	lesion_enhancement_spatial_pattern:	homogeneous_enhancement
+	lesion_enhancement_overall:	enhancing
+	lesion_attenuation_uniformity:	homogeneous
+
