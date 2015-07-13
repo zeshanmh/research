@@ -3,6 +3,7 @@
 #fjeg
 
 import numpy as np 
+import pandas as pd
 import sys 
 import operator 
 import math
@@ -16,6 +17,7 @@ NUM_CASES = 79
 NUM_SEMANTIC_FEAT = 30 
 NUM_COMP_FEAT = 431 
 
+
 def main(): 
 	##load and process data 
 	flag = "L1"
@@ -25,8 +27,9 @@ def main():
 	allSemFeatures = open('../featurized/semantic_feature_list.txt', 'r')
 	cfMatrix = np.genfromtxt(compFeatures, delimiter=",") #79x431
 	semFeatureMatrix = constructOutputMatrix(comp_uids, lesionFeaturesFile, allSemFeatures) #79x30
-	parallelize(cfMatrix, semFeatureMatrix, flag)
+	#parallelize(cfMatrix, semFeatureMatrix, flag)
 	#fitModel(cfMatrix, semFeatureMatrix, flag)
+
 
 def constructOutputMatrix(comp_uids, lesionFeaturesFile, allSemFeatures): 
 	##create map from image id to index  
@@ -53,8 +56,13 @@ def constructOutputMatrix(comp_uids, lesionFeaturesFile, allSemFeatures):
 			index = semFeatureMap.get(elem[1], -1)
 			if index != -1: semFeatureMatrix[curCase, index] = 1
 			#semFeatureMatrix[curCase, semFeatureMap.get(elem[1], 0)]
-
+	print semFeatureMatrix
+	semdf = pd.DataFrame(semFeatureMatrix)
+	print semdf
+	# for i in xrange(len(semFeatureMatrix[0])): 
+	# 	np.where(semFeatureMatrix[i])
 	return semFeatureMatrix
+
 
 def parallelize(cfMatrix, semFeatureMatrix, flag): 
 	loocv = cross_validation.LeaveOneOut(NUM_CASES)
@@ -63,11 +71,12 @@ def parallelize(cfMatrix, semFeatureMatrix, flag):
 	auc_mcr_list = []
 	#Y_true, Y_scores = [], []
 	#fitModel(auc_mcr_list, loocv, logreg, cfMatrix, semFeatureMatrix, flag, 1)
-	Parallel(n_jobs=-1)(delayed(fitModel)(auc_mcr_list, loocv, logreg, cfMatrix, semFeatureMatrix, flag, i) 
+	auc_mcr_list = Parallel(n_jobs=-1)(delayed(fitModel)(loocv, logreg, cfMatrix, semFeatureMatrix, flag, i) 
 		for i in xrange(len(semFeatureMatrix[0])))
 	print auc_mcr_list
 
-def fitModel(auc_mcr_list, loocv, logreg, cfMatrix, semFeatureMatrix, flag, i): 
+
+def fitModel(loocv, logreg, cfMatrix, semFeatureMatrix, flag, i): 
 	# loocv = cross_validation.LeaveOneOut(NUM_CASES)
 	# logreg = linear_model.LogisticRegression() 
 	# #print cfMatrix.shape 
@@ -107,15 +116,10 @@ def fitModel(auc_mcr_list, loocv, logreg, cfMatrix, semFeatureMatrix, flag, i):
 			#break
 		#print len(Y_scores)
 	auc = metrics.roc_auc_score(Y_true, Y_scores)
-	auc_mcr_list.append((i, (auc, np.mean(mcr))))
-	#aucList.append((i, auc))
-	#mcrList.append((i, np.mean(mcr)))
-		#MSE = metrics.mean_squared_error(Y_true, Y_scores)
-		#print np.mean(mcr)
-		#break
-	#return aucList, mcrList
-	#print aucList
-	#print mcrList 
+	print (i, (auc, np.mean(mcr)))
+	return (i, (auc, np.mean(mcr)))
+	#auc_mcr_list.append((i, (auc, np.mean(mcr))))
+
 
 def tuneParams(X, Y, intern_kf, logreg): 
 	C = np.logspace(0,4,num=10,base=2) ##change values of C
@@ -147,9 +151,7 @@ def tuneParams(X, Y, intern_kf, logreg):
 	indexBestCombo = bestParamComboArray.argmin(0)[2]
 	return bestParamComboArray[indexBestCombo]
 
-			#paramCombArray
 
-			#Y_true[test] = Y_test
 def fillParamCombArray(paramCombArray, row, C, threshold, mcr): 
 	paramCombArray[row,0] = C
 	paramCombArray[row,1] = threshold
@@ -199,6 +201,7 @@ def fillParamCombArray(paramCombArray, row, C, threshold, mcr):
 # 	# 	#print metrics.accuracy_score(semFeatureMatrix[:,curFeature], predicted)
 # 	# print grid
 # 	return linear_model.LogisticRegressionCV(Cs=C, penalty='l1', solver='liblinear', n_jobs=-1)
+
 
 def predict(semFeatureMatrix, cfMatrix, test_index, curFeature, logreg):
 	Y_train = np.delete(semFeatureMatrix[:,curFeature], test_index, 0)
